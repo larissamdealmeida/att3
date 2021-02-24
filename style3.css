@@ -1,0 +1,25 @@
+#cor {
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    font-weight: bold;
+    display:inline;
+  }
+  
+  #resto{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    display:inline;
+  }
+
+   #icone1{
+    height: 25px !important;
+    width: 25px !important;
+     }
+
+     #icone2{
+      height: 25px !important;
+      width: 25px !important;
+       }
